@@ -1,5 +1,7 @@
 # Leistungsstarkes Game Framework
 
+Unofficial translation of [Leistungsstarkes Game Framework](https://github.com/ntut-xuan/LeistungsstarkesGameFramework) with the help of Google Translate.
+
 LGF (Leistungsstarkes Game Framework) is a Powerful Game Framework based on Professor 陳偉凱's Game Framework with some added functions.
 
 This project is not guaranteed to have a long-term maintenance. If you have any questions or any other desired features, please leave an issue. Wish you a happy use :D
